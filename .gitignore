@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/WeatherApp
+/WeatherApp/WeatherApp.Android/bin/Debug
+/WeatherApp/WeatherApp.Android/obj
